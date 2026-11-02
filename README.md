@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34272401/README.md)
 # Driver Monitoring System (DMS) — Portfolio Showcase
 
 This repository serves as a professional showcase of my contributions to the Driver Monitoring System (DMS) project, highlighting both the backend web integration and the core AI/ML pipeline.
